@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>星Z痕</title>
+  <icon>https://liy002.gitee.io/icon.png</icon>
+  <subtitle>星Z痕</subtitle>
+  <link href="https://liy002.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="https://liy002.gitee.io/"/>
+  <updated>2022-06-06T04:33:40.994Z</updated>
+  <id>https://liy002.gitee.io/</id>
+  
+  <author>
+    <name>星Z痕</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python</title>
+    <link href="https://liy002.gitee.io/2022/06/06/python/"/>
+    <id>https://liy002.gitee.io/2022/06/06/python/</id>
+    <published>2022-06-06T04:30:45.000Z</published>
+    <updated>2022-06-06T04:33:40.994Z</updated>
+    
+    
+    
+    
+    
+    <category term="Python" scheme="https://liy002.gitee.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编译原理</title>
+    <link href="https://liy002.gitee.io/2022/04/13/bian-yi-yuan-li/"/>
+    <id>https://liy002.gitee.io/2022/04/13/bian-yi-yuan-li/</id>
+    <published>2022-04-13T11:52:04.000Z</published>
+    <updated>2022-04-18T08:47:41.624Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一&quot;&gt;&lt;a href=&quot;#一&quot; class=&quot;headerlink&quot; title=&quot;一&quot;&gt;&lt;/a&gt;一&lt;/h1&gt;&lt;h2 id=&quot;编译的6个阶段&quot;&gt;&lt;a href=&quot;#编译的6个阶段&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>md文档格式</title>
+    <link href="https://liy002.gitee.io/2022/04/11/md-wen-dang-ge-shi/"/>
+    <id>https://liy002.gitee.io/2022/04/11/md-wen-dang-ge-shi/</id>
+    <published>2022-04-11T11:14:22.000Z</published>
+    <updated>2022-04-11T11:15:09.459Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-md&quot; data-language=&quot;md&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+    <category term="md" scheme="https://liy002.gitee.io/tags/md/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>素数</title>
+    <link href="https://liy002.gitee.io/2022/04/05/su-shu/"/>
+    <id>https://liy002.gitee.io/2022/04/05/su-shu/</id>
+    <published>2022-04-05T13:18:14.000Z</published>
+    <updated>2022-04-05T13:20:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;筛选N以内的素数-ACM-1022&quot;&gt;&lt;a href=&quot;#筛选N以内的素数-ACM-1022&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="素数" scheme="https://liy002.gitee.io/tags/%E7%B4%A0%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杨辉三角形</title>
+    <link href="https://liy002.gitee.io/2022/04/04/yang-hui-san-jiao-xing/"/>
+    <id>https://liy002.gitee.io/2022/04/04/yang-hui-san-jiao-xing/</id>
+    <published>2022-04-04T09:18:38.000Z</published>
+    <updated>2022-04-04T09:23:34.304Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;蓝桥杯2021年第十二届省赛真题-杨辉三角形-ACM-2610&quot;&gt;&lt;a href=&quot;#蓝桥杯2021年第十二届省赛真题-杨辉三角形-ACM-2610&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>回文数</title>
+    <link href="https://liy002.gitee.io/2022/04/02/hui-wen-shu/"/>
+    <id>https://liy002.gitee.io/2022/04/02/hui-wen-shu/</id>
+    <published>2022-04-02T07:16:22.000Z</published>
+    <updated>2022-04-05T13:16:15.762Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;回文数-Leetcode-9&quot;&gt;&lt;a href=&quot;#回文数-Leetcode-9&quot; class=&quot;headerlink&quot; title=&quot;回文数 (Leetcode-9)&quot;&gt;&lt;/a&gt;回文数 (Leetcode-9)&lt;/h1&gt;&lt;p&gt;给你一个整数 x ，如果 x</summary>
+        
+      
+    
+    
+    
+    
+    <category term="回文" scheme="https://liy002.gitee.io/tags/%E5%9B%9E%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>链表</title>
+    <link href="https://liy002.gitee.io/2022/03/29/lian-biao/"/>
+    <id>https://liy002.gitee.io/2022/03/29/lian-biao/</id>
+    <published>2022-03-29T14:24:48.000Z</published>
+    <updated>2022-04-08T07:42:52.400Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;创建&quot;&gt;&lt;a href=&quot;#创建&quot; class=&quot;headerlink&quot; title=&quot;创建&quot;&gt;&lt;/a&gt;创建&lt;/h1&gt;&lt;h2 id=&quot;内部键入&quot;&gt;&lt;a href=&quot;#内部键入&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="链表" scheme="https://liy002.gitee.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA-蓝桥杯</title>
+    <link href="https://liy002.gitee.io/2022/03/29/lan-qiao-bei/"/>
+    <id>https://liy002.gitee.io/2022/03/29/lan-qiao-bei/</id>
+    <published>2022-03-29T11:19:13.000Z</published>
+    <updated>2022-04-08T10:00:35.953Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Eclipse&quot;&gt;&lt;a href=&quot;#Eclipse&quot; class=&quot;headerlink&quot; title=&quot;Eclipse&quot;&gt;&lt;/a&gt;Eclipse&lt;/h1&gt;&lt;h2 id=&quot;创建Java项目&quot;&gt;&lt;a href=&quot;#创建Java项目&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="JAVA" scheme="https://liy002.gitee.io/tags/JAVA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode练习</title>
+    <link href="https://liy002.gitee.io/2022/03/27/li-kou-lian-xi/"/>
+    <id>https://liy002.gitee.io/2022/03/27/li-kou-lian-xi/</id>
+    <published>2022-03-27T03:14:35.000Z</published>
+    <updated>2022-04-02T12:47:59.221Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;13-罗马数字转整数&quot;&gt;&lt;a href=&quot;#13-罗马数字转整数&quot; class=&quot;headerlink&quot; title=&quot;13. 罗马数字转整数&quot;&gt;&lt;/a&gt;13.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>农田灌溉</title>
+    <link href="https://liy002.gitee.io/2022/03/21/nong-tian-guan-gai/"/>
+    <id>https://liy002.gitee.io/2022/03/21/nong-tian-guan-gai/</id>
+    <published>2022-03-21T12:44:37.000Z</published>
+    <updated>2022-03-24T08:16:28.589Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;农夫约翰有 n 片连续的农田，编号依次为 1∼n。
+其中有 k 片农田中装有洒水器。
+装有洒水器的农田的编号从小到大依次为</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>进制转换</title>
+    <link href="https://liy002.gitee.io/2022/03/18/jin-zhi-zhuan-huan/"/>
+    <id>https://liy002.gitee.io/2022/03/18/jin-zhi-zhuan-huan/</id>
+    <published>2022-03-18T03:00:27.000Z</published>
+    <updated>2022-04-06T08:38:26.580Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;进制转换&quot;&gt;&lt;a href=&quot;#进制转换&quot; class=&quot;headerlink&quot; title=&quot;进制转换&quot;&gt;&lt;/a&gt;进制转换&lt;/h1&gt;&lt;p&gt;编程，输入一个１０进制正整数，然后输出它所对应的八进制数&lt;/p&gt;
+&lt;h2 id=&quot;暴力破解&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ACM训练.md</title>
+    <link href="https://liy002.gitee.io/2022/03/15/acm-lian-xi/"/>
+    <id>https://liy002.gitee.io/2022/03/15/acm-lian-xi/</id>
+    <published>2022-03-15T11:58:04.000Z</published>
+    <updated>2022-04-08T09:58:44.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;三个数最大值&quot;&gt;&lt;a href=&quot;#三个数最大值&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTML</title>
+    <link href="https://liy002.gitee.io/2022/01/19/html/"/>
+    <id>https://liy002.gitee.io/2022/01/19/html/</id>
+    <published>2022-01-19T08:25:00.000Z</published>
+    <updated>2022-05-09T10:51:43.769Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HTML标签&quot;&gt;&lt;a href=&quot;#HTML标签&quot; class=&quot;headerlink&quot; title=&quot;HTML标签&quot;&gt;&lt;/a&gt;HTML标签&lt;/h1&gt;&lt;p&gt;1.HTML：HyperText Markup Language</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="html" scheme="https://liy002.gitee.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java-题</title>
+    <link href="https://liy002.gitee.io/2022/01/18/java/"/>
+    <id>https://liy002.gitee.io/2022/01/18/java/</id>
+    <published>2022-01-18T10:31:00.000Z</published>
+    <updated>2022-03-08T11:36:34.239Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、选择题&quot;&gt;&lt;a href=&quot;#一、选择题&quot; class=&quot;headerlink&quot; title=&quot;一、选择题&quot;&gt;&lt;/a&gt;一、选择题&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Math</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="面向对象" scheme="https://liy002.gitee.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据库</title>
+    <link href="https://liy002.gitee.io/2022/01/18/sql/"/>
+    <id>https://liy002.gitee.io/2022/01/18/sql/</id>
+    <published>2022-01-18T10:31:00.000Z</published>
+    <updated>2022-04-11T11:28:00.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="数据库" scheme="https://liy002.gitee.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机算法设计与分析</title>
+    <link href="https://liy002.gitee.io/2022/01/18/suan-fa-fen-xi/"/>
+    <id>https://liy002.gitee.io/2022/01/18/suan-fa-fen-xi/</id>
+    <published>2022-01-18T04:30:00.000Z</published>
+    <updated>2022-04-11T11:33:02.121Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-算法与程序&quot;&gt;&lt;a href=&quot;#1-算法与程序&quot; class=&quot;headerlink&quot; title=&quot;1.算法与程序&quot;&gt;&lt;/a&gt;1.算法与程序&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="算法设计与分析" scheme="https://liy002.gitee.io/tags/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机图形学</title>
+    <link href="https://liy002.gitee.io/2022/01/18/ji-suan-ji-tu-xing-xue/"/>
+    <id>https://liy002.gitee.io/2022/01/18/ji-suan-ji-tu-xing-xue/</id>
+    <published>2022-01-18T03:15:00.000Z</published>
+    <updated>2022-01-18T10:38:26.061Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;对称于任一直线&quot;&gt;&lt;a href=&quot;#对称于任一直线&quot; class=&quot;headerlink&quot; title=&quot;对称于任一直线&quot;&gt;&lt;/a&gt;对称于任一直线&lt;/h3&gt;&lt;h2 id=&quot;区域填充算法&quot;&gt;&lt;a href=&quot;#区域填充算法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://liy002.gitee.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="计算机图形学" scheme="https://liy002.gitee.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建博客</title>
+    <link href="https://liy002.gitee.io/2022/01/06/di-yi-pian/"/>
+    <id>https://liy002.gitee.io/2022/01/06/di-yi-pian/</id>
+    <published>2022-01-06T07:29:00.000Z</published>
+    <updated>2022-03-19T03:16:39.883Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;第一天&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://liy002.gitee.io/2022/01/06/hello-world/"/>
+    <id>https://liy002.gitee.io/2022/01/06/hello-world/</id>
+    <published>2022-01-06T06:30:16.823Z</published>
+    <updated>2022-01-06T06:30:16.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
