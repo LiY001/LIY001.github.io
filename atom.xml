@@ -6,7 +6,7 @@
   <link href="https://liy002.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://liy002.gitee.io/"/>
-  <updated>2022-10-10T09:30:50.250Z</updated>
+  <updated>2022-10-11T09:29:08.100Z</updated>
   <id>https://liy002.gitee.io/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>杂记</title>
+    <link href="https://liy002.gitee.io/2022/10/11/za-ji/"/>
+    <id>https://liy002.gitee.io/2022/10/11/za-ji/</id>
+    <published>2022-10-11T09:29:07.000Z</published>
+    <updated>2022-10-11T09:29:08.100Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>JAVA</title>
     <link href="https://liy002.gitee.io/2022/09/13/hei-ma-java/"/>
     <id>https://liy002.gitee.io/2022/09/13/hei-ma-java/</id>
     <published>2022-09-13T03:24:45.000Z</published>
-    <updated>2022-10-10T09:30:50.250Z</updated>
+    <updated>2022-10-13T03:24:44.744Z</updated>
     
     
       
@@ -445,7 +458,7 @@
     <link href="https://liy002.gitee.io/2022/01/06/di-yi-pian/"/>
     <id>https://liy002.gitee.io/2022/01/06/di-yi-pian/</id>
     <published>2022-01-06T07:29:00.000Z</published>
-    <updated>2022-10-09T14:35:22.382Z</updated>
+    <updated>2022-10-11T09:29:28.993Z</updated>
     
     
       
@@ -453,27 +466,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;搭建博客&quot;&gt;&lt;a href=&quot;#搭建博客&quot; class=&quot;headerlink&quot; title=&quot;搭建博客&quot;&gt;&lt;/a&gt;搭建博客&lt;/h1&gt;&lt;h2 id=&quot;推送&quot;&gt;&lt;a href=&quot;#推送&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://liy002.gitee.io/2022/01/06/hello-world/"/>
-    <id>https://liy002.gitee.io/2022/01/06/hello-world/</id>
-    <published>2022-01-06T06:30:16.823Z</published>
-    <updated>2022-01-06T06:30:16.824Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
